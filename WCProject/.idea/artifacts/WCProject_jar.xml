@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WCProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WCProject_jar</output-path>
+    <root id="archive" name="WCProject.jar">
+      <element id="module-output" name="WCProject" />
+    </root>
+  </artifact>
+</component>
