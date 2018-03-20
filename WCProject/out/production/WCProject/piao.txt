@@ -1,0 +1,16 @@
+test.c,行数：7
+
+test.c,单词数：11
+
+test1.c,行数：7
+
+test1.c,单词数：11
+
+test2.c,行数：7
+
+test2.c,单词数：11
+
+test3.c,行数：7
+
+test3.c,单词数：11
+

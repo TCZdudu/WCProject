@@ -1,2 +1,6 @@
-test.c,行数：8
-
+atest.c,字符数：408
+char.c,字符数：30
+char1.c,字符数：0
+charwithspace.c,字符数：34
+stoptest.c,字符数：176
+wordtest.c,字符数：189
