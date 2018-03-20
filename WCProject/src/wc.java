@@ -142,7 +142,6 @@ public class wc {
                                                 j = -1;
                                                 flag = false;
                                                 break;
-
                                             }
                                             else if (str_line.charAt(j) == '/' && str_line.charAt(j - 1) == '*') {
                                                 j = -1;
@@ -206,6 +205,7 @@ public class wc {
         get_result(file_writer,line_num);
         get_result(file_writer,line_info);
     }
+
     public static List<String> searchFile(String absPath, String lastPath) {//递归遍历当前目录以及子目录下符合要求的文件
         String regex = lastPath.replace("?", "[0-9a-z]");
         regex = regex.replace("*", "[0-9a-z]{0,}"); //正则匹配
@@ -304,5 +304,4 @@ public class wc {
                 file_writer.close();
         }
     }
-
 }
